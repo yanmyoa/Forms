@@ -57,3 +57,5 @@ export default {
         color: #555;
     }
 </style>
+
+// I love vue
